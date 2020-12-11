@@ -1,6 +1,7 @@
 ## USUARIOS DEFAULT 
 Estas crendenciales se pueden utilizar para entrar a la app
 
+
 email: nikejavis@gmail.com
 password: 12345678
 
